@@ -1,0 +1,8 @@
+obj/version.o: version.cpp \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/version.h \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/clientversion.h \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/obj/build.h
+version.cpp :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/version.h :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/clientversion.h :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/obj/build.h :

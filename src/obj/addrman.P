@@ -1,0 +1,24 @@
+obj/addrman.o: addrman.cpp \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/addrman.h \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/netbase.h \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/serialize.h \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/allocators.h \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/version.h \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/clientversion.h \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/compat.h \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/protocol.h \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/uint256.h \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/util.h \
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/sync.h
+addrman.cpp :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/addrman.h :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/netbase.h :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/serialize.h :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/allocators.h :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/version.h :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/clientversion.h :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/compat.h :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/protocol.h :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/uint256.h :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/util.h :
+  /Users/khowlett/Documents/AA-kickstarter/coin/working/aureus-dev/src/sync.h :
